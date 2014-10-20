@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/noti_ActionBar</item>
+    </style>
+
+    <style name="noti_ActionBar" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/alizarin</item>
+    </style>
+</resources>
